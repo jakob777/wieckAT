@@ -1,4 +1,4 @@
-##Wieck Altes Testaments
+## Wieck Altes Testaments
 
 
 Diese Übersetzung verfolgt ein bewusst anderes Ziel als die meisten deutschen Bibelübersetzungen. Sie will den hebräischen und aramäischen Grundtext des Alten Testaments nicht in möglichst flüssiges modernes Deutsch übertragen, sondern seine sprachliche Gestalt im Deutschen sichtbar machen. Der Leser soll nicht nur erfahren, was der Text ungefähr bedeutet, sondern auch etwas davon sehen, wie der Text gebaut ist: seine Wortstellung, seine Wiederholungen, seine Verknüpfungen, seine ungewohnte Dichte und seine oft fremde Ausdrucksweise.
